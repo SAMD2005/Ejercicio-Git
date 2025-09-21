@@ -16,10 +16,12 @@ namespace Ejercicio_Git
             double resultado = num1 + num2;
                 return resultado;
         }
-        static void Resta(double num1, double num2)
+        static double Resta(double num1, double num2)
         {
             double resultado = num1 - num2;
+            
             return resultado;
         }
+        static double Multiplicacion
     }
 }
